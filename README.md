@@ -1,3 +1,5 @@
+# [Documento con las soluciones del tema2(Jhon Salazar)](https://docs.google.com/document/d/1Qt_wr5RT5NgIufuiHZDOPhDrqRJFTKBImGuGt75uzrY/edit?tab=t.b2dv4aih91jd)
+
 # plantillas_wordpress
 # Plantilla WordPress con Docker
 
