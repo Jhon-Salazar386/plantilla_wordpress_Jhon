@@ -1,5 +1,6 @@
 /*
- * Tema 2 · Fundamentos y particularidades de JavaScript
- * Ejercicio 1 · ¿Qué tipo tengo realmente?
+ * Tema 3 · Funciones arrays y tratamiento de datos
+ * Ejercicio 1 · ¿Es par?
  */
-console.log('Ejercicio tema 3');
+
+console.log('Ejercicio 1');
