@@ -11,6 +11,8 @@ let suma = 0;
 
 let aprobados = 0
 
+let media = 0
+
 for(const nota of numeros){
     
     if(nota >= 5) {
@@ -21,7 +23,7 @@ for(const nota of numeros){
 
 }
 
-console.log(numeros.length)
+console.log("Longitud de la lista: ", numeros.length)
 
 if(numeros.length > 0) {
     media = suma / numeros.length
