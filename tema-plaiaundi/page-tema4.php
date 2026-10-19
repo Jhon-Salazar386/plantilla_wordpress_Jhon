@@ -10,7 +10,8 @@ $titulos_ejercicios = array(
     'Objeto literal y métodos',
     'El receptor de un método',
     'Referencia o copia',
-    'Del objeto a la clase'
+    'Del objeto a la clase',
+    'Proteger el stock'
 
 );
 ?>
