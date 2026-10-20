@@ -13,7 +13,8 @@ $titulos_ejercicios = array(
     'Del objeto a la clase',
     'Proteger el stock',
     'Herencia y polimorfismo',
-    'Separar archivos'
+    'Separar archivos',
+    'Catalogo modular'
 );
 ?>
 <main>
