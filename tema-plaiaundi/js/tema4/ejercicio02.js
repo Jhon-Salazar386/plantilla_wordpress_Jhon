@@ -20,9 +20,11 @@ const cuenta2 = {
     saldo: 45
 }
 
+console.log("Cuenta2: ", cuenta1.describir())
+
 cuenta2.describir = cuenta1.describir;
 
-console.log("Cuenta2", cuenta2.describir());
+console.log("Cuenta2: ", cuenta2.describir());
 
 /*
 const describirF = cuenta1.describir;

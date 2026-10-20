@@ -11,7 +11,8 @@ $titulos_ejercicios = array(
     'El receptor de un método',
     'Referencia o copia',
     'Del objeto a la clase',
-    'Proteger el stock'
+    'Proteger el stock',
+    'Herencia y polimorfismo'
 
 );
 ?>

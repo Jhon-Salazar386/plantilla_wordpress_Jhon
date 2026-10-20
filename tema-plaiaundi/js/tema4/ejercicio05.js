@@ -5,7 +5,7 @@
 
 console.log("Ejercicio 5")
 
-export class Producto {
+class Producto {
     #stock;
 
     constructor(id, nombre, precio, stock){
