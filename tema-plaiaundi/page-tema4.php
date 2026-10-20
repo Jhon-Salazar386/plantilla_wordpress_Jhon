@@ -12,8 +12,8 @@ $titulos_ejercicios = array(
     'Referencia o copia',
     'Del objeto a la clase',
     'Proteger el stock',
-    'Herencia y polimorfismo'
-
+    'Herencia y polimorfismo',
+    'Separar archivos'
 );
 ?>
 <main>
