@@ -27,12 +27,17 @@ console.log("Nombres disponibles", obtenerNombresDisponibles(catalogo));
 
 const teclado = buscarPorId(catalogo, 1)
 
-console.log("Vender 2 teclados: ", teclado.vender(2), "stock: ", teclado.stock)
-console.assert(
-    calcularValorStock(catalogo) === 518,
-    "Después de vender 2 teclados, el total debe ser 518"
-);
+if(teclado != undefined) {
+    console.log("Vender 2 teclados: ", teclado.vender(2), "stock: ", teclado.stock);
 
-console.log("Vender 5 teclados: ", teclado.vender(5), "stock: ", teclado.stock)
+    console.assert(
+        calcularValorStock(catalogo) === 518,
+        "Después de vender 2 teclados, el total debe ser 518"
+    );
 
-console.log("Asignar -3 a stock de teclado: ", teclado.stock = -3, "stock: ", teclado.stock)
+    console.log("Vender 5 teclados: ", teclado.vender(5), "stock: ", teclado.stock);
+
+    console.log("Asignar -3 a stock de teclado: ", teclado.stock = -3, "stock: ", teclado.stock);
+} else {
+    console.log("Objeto no encontrado");
+}
