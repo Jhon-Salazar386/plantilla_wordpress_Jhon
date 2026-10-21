@@ -17,7 +17,7 @@ $titulos_ejercicios = array(
     'Catalogo modular'
 );
 ?>
-<main>
+<main class="ejercicios">
   <h1>Tema 4 · Objetos, clases y módulos</h1>
   <p>Abre la consola y las herramientas de desarrollo.</p>
     <nav aria-label="Ejercicios de JavaScript">
