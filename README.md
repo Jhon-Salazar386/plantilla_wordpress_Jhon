@@ -1,5 +1,6 @@
 ### [Soluciones del tema2(Jhon Salazar)](https://docs.google.com/document/d/1Qt_wr5RT5NgIufuiHZDOPhDrqRJFTKBImGuGt75uzrY/edit?tab=t.b2dv4aih91jd)
 ### [Soluciones del tema3(Jhon Salazar)](https://docs.google.com/document/d/1zjp4j85HDMMvzzCSX_XG-wcqfJT6_U-53bTaFDpqkqw/edit?tab=t.h2xy3k89oabg)
+### [Soluciones cliente tema 4(Jhon Salazar)](https://docs.google.com/document/d/1v0J6vGgDnJ1DWEvBgrcexKXBbHggxSNFvBzOsWSgQHo/edit?tab=t.t06iblq2g90a#heading=h.1bp5h9ppgiez)
 
 # plantillas_wordpress
 # Plantilla WordPress con Docker
